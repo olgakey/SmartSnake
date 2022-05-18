@@ -13,4 +13,5 @@ that contains expected rewards for each possible action. The snake should pick i
 Then the environment gets updated, and the snake gets its reward or punishment.
 For weights, we will use the Bellman Equation that is often used with the Q-Learning function to generate losses and update the weights.  
 
-To start the learning process, run Agent.py
+To start the DQL learning process, run Agent.py
+To start the MuZero learning process, run MuZero.py
